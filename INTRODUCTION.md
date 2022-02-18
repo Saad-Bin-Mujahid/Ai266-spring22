@@ -48,3 +48,17 @@ CENTER OF EXCELLENCE THAT GIVE ME TO OPPORTUNITY TO EXPLORE MY INTEREST.
 
 ### INTEREST  
 ___I AM PREPARING MYSELF TO BE A FULL STACK DEVELOPER.___
+
+---------------------------------------------
+# ABOUT MUHAMMAD HUZAIFA
+
+My name is *Muhammad Huzaifa*.
+
+*Student ID: 10562*
+
+**I am the student of BSCS in 6th semister at PAF KIET.**
+
+I am in this program because I had interest in computer & technologies since my childhood.
+I wanted to learn more about technologies & stuff.
+I am working on my self trying different things and want to be fincancially free.
+
