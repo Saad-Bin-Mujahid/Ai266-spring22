@@ -5,7 +5,7 @@
 | --------------------- | ---------- |
 |   SAAD BIN MUJAHID    |    10360   |
 |   Muhammad Huzaifa    |    10562   |
-|    Syed Taha Anwer    |            |
+|    Syed Taha Anwer    |    10384   |
 |  Muhammad Sarim Raza  |    11311   |
 | Syed Salman Khurshid  |            |
 
