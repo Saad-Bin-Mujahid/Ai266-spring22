@@ -7,7 +7,7 @@
 |   Muhammad Huzaifa    |    10562   |
 |    Syed Taha Anwer    |    10384   |
 |  Muhammad Sarim Raza  |    11311   |
-| Syed Salman Khurshid  |            |
+| Syed Salman Khurshid  |    11260   |
 
 
 ---------------------------------------------
