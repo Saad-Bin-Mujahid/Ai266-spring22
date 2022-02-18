@@ -62,3 +62,13 @@ I am in this program because I had interest in computer & technologies since my 
 I wanted to learn more about technologies & stuff.
 I am working on my self trying different things and want to be fincancially free.
 
+---------------------------------------------
+
+### About Syed Salman Khursheed
+
+My name is *Syed Salman Khursheed*.
+*Student ID: 11260*
+
+I am a student of 5th seamester studying computer science.
+I have choose computer science because l like this field and want to become a developer.
+
