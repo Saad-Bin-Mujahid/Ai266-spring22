@@ -20,6 +20,22 @@ watching tv shows. In Future I see myself as a ***Cyber Security Expert*** repre
 
 ---------------------------------------------
 
+### About Syed Taha Anwer
+
+Assalam-o-Alaikum 
+
+My name is ***Syed Taha Anwer***.
+
+I am a student of 3rd year studying computer science.
+
+My goal is to be an entrepreneur.
+
+I like to play video games.
+
+And I am sincere about my responsibilities.
+
+---------------------------------------------
+
 # INTRODUCITON  
 **ASSALAM U ALIKUM**
 I AM **SAAD BIN MUJAHID** AND I AM STUDENT OF BS COMPUTER SCIENCE AT **PAF-KIET**.  
