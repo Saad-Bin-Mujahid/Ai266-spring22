@@ -26,7 +26,7 @@ Wrote program to generate random probabilities and submitted sample file for sco
 
 
 ## SARIM RAZA
-
+Supervised Libraries for python program.
 
 ## SYED SALMAN KHURSHEED
 
