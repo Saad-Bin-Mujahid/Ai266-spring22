@@ -23,7 +23,7 @@ Wrote program to generate random probabilities and submitted sample file for sco
 
 
 ## SYED TAHA ANWER
-
+Supervised logics to write python program.
 
 ## SARIM RAZA
 Supervised Libraries for python program.
