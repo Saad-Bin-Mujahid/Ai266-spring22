@@ -30,7 +30,7 @@ Supervised logics to write python program.
 Supervised Libraries for python program.
 
 ## SYED SALMAN KHURSHEED
-
+Mentioned comments in python program.
 
 ### PROBLEMS FACED DURING ASSINGMNET
 
