@@ -28,4 +28,4 @@ print(sample)
 
 
 "Creating Our Csv File With That Two Exported Columns For Submission On Kaggle"
-sample.to_csv('sample.csv'
+sample.to_csv('sample.csv',index=False)
