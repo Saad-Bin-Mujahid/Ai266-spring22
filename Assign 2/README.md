@@ -20,7 +20,7 @@
 Wrote program to generate random probabilities and submitted sample file for score in Kaggle.
 
 ## MUHAMMAD HUZAIFA
-
+Assigned task to every member
 
 ## SYED TAHA ANWER
 Supervised logics to write python program.
