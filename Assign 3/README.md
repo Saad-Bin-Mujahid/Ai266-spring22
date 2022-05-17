@@ -41,8 +41,17 @@ We faced many problems but two of them was most difficult to handle
 1- f_27 Coloumn with string values
 2- Too much time in calculating accuracy.  
 
-### SCORE SCREENSHOT
+### SCORE SCREENSHOTS
 
+### SAAD BIN MUJAHID SCORE SCREENSHOT
 ![SCORE SCREENSHOT](https://user-images.githubusercontent.com/87540423/168880485-3fba708c-18b6-426d-aa08-a1f07fc66747.png)
 
 ![SCORE SCREENSHOT (CROPPED)](https://user-images.githubusercontent.com/87540423/168880522-5464aacc-14b2-48b1-b01a-e70b6a7d2511.PNG)
+
+### SARIM RAZA SCORE SCREENSHOT
+
+### SYED TAHA ANWER SCORE SCREENSHOT
+
+### SYED SALMAN KHURSHID SCORE SCREENSHOT
+
+### MUHAMMAD HUZAIFA SCORE SCREENSHOT
