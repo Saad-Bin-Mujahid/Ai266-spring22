@@ -17,26 +17,27 @@
 ### CONTRIBUTIONS:
 
 ## SAAD BIN MUJAHID
-Wrote program and one model, KNN.
+Wrote program and implemented KNN.
 
 ## MUHAMMAD HUZAIFA
-Implemented Laplace Smoothing.
+Implemented Lidstone Smoothing.
 
 ## SYED TAHA ANWER
 Implemented Support Vector Machine (SVM).
 
 ## SARIM RAZA
-Implemented Lidstone Smoothing.
+Implemented Laplace Smoothing.
 
 ## SYED SALMAN KHURSHEED
-Mentioned co
+Implemented Perceptron.
+
 ### PROBLEMS FACED DURING ASSINGMNET
+We faced many problems but two of them was most difficult to handle
+1- f_27 Coloumn with string values
+2- Too much time in calculating accuracy.  
 
-First of all we was not familiar with Kaggle, so all of us registered our self in kaggle. Then in joining competition we were facing issue
-in phone number verification. Every time Kaggle was showing that this number can not be verify. So we send complain to kaggle help and support.
-After some time we got registered in Tabular Playground Series May 2022. In last we faced some issues in writing python program to generate
-probabilities but after focusing we successfully generated random probabilites by our python program.
+### SCORE SCREENSHOT
 
-### SCORE SCREENSHOT (7 MAY 2022)
+![SCORE SCREENSHOT](https://user-images.githubusercontent.com/87540423/168880485-3fba708c-18b6-426d-aa08-a1f07fc66747.png)
 
-![SCORE](https://user-images.githubusercontent.com/87540423/167255701-7f24abbc-6447-4f00-98e4-3309ee39db22.png)
+![SCORE SCREENSHOT (CROPPED)](https://user-images.githubusercontent.com/87540423/168880522-5464aacc-14b2-48b1-b01a-e70b6a7d2511.PNG)
