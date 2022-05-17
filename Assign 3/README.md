@@ -52,6 +52,8 @@ We faced many problems but two of them was most difficult to handle
 ### SARIM RAZA SCORE SCREENSHOT
 
 ### SYED TAHA ANWER SCORE SCREENSHOT
+![image](https://user-images.githubusercontent.com/15570677/168893810-78de4415-f1d7-4ba1-ba52-6d2feb96f8ac.png)
+
 
 ### SYED SALMAN KHURSHID SCORE SCREENSHOT
 
