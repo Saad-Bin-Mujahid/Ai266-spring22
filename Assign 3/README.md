@@ -31,6 +31,11 @@ Implemented Laplace Smoothing.
 ## SYED SALMAN KHURSHEED
 Implemented Perceptron.
 
+![SCORE TABLE](https://user-images.githubusercontent.com/87540423/168883846-a2f3ea8c-746c-404c-8f6e-f6c7937a1cd2.PNG)
+
+![PREDICTED VALUES](https://user-images.githubusercontent.com/87540423/168883857-b4ed4c21-5e51-4923-9fd5-abf68361133c.PNG)
+
+
 ### PROBLEMS FACED DURING ASSINGMNET
 We faced many problems but two of them was most difficult to handle
 1- f_27 Coloumn with string values
