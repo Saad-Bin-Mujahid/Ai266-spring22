@@ -64,6 +64,14 @@ skf = StratifiedKFold(n_splits=3)
 for train, test in skf.split(X, y):
   print('train -  {}   |   test -  {}'.format(np.bincount(y[train]), np.bincount(y[test])))
 
+ # CONTRIBUTION OF SYED SALMAN KHURSHID (11260)
+#Perceptron
+clf = Perceptron(tol=1e-3, random_state=0)
+clf.fit(abs(t_train), y_train)
+clf.predict(t_test)
+Percept=clf.score(t_test,y_test)
+print("The Accuracy Of Preceptron:-",Percept*100)
+
 # CONTRIBUTION OF SYED TAHA ANWER (10384)
 #Support Vector Machine (SVM)
 clf = make_pipeline(StandardScaler(), SVC(gamma='auto'))
