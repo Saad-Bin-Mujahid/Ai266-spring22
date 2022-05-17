@@ -23,8 +23,7 @@ Wrote program and implemented KNN.
 Implemented Lidstone Smoothing.
 
 ## SYED TAHA ANWER
-Implemented Support Vector Machine (SVM).
-
+Implemented Support Vector Machine (SVM)
 ## SARIM RAZA
 Implemented Laplace Smoothing.
 
