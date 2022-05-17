@@ -32,8 +32,6 @@ print(t_train.shape)
 t_train.drop_duplicates(inplace=True)
 print(t_train.shape)
 
-# CONTRIBUTION OF SARIM RAZA (11311)
-#Using No Smoothing For Data Fiting,Predicting,And Scoring Accuracy
 clf = MultinomialNB(alpha=0)
 clf.fit(abs(t_train),y_train)
 clf.predict(t_test)
@@ -43,7 +41,7 @@ skf = StratifiedKFold(n_splits=3)
 for train, test in skf.split(X, y):
   print('train -  {}   |   test -  {}'.format(np.bincount(y[train]), np.bincount(y[test])))
 
-# CONTRIBUTION OF MUHAMMAD HUZAIFA (10562)
+# CONTRIBUTION OF SARIM RAZA (11311)
 #Laplace Smoothing
 clf = MultinomialNB(alpha=1)
 clf.fit(abs(t_train),y_train)
@@ -55,6 +53,7 @@ skf = StratifiedKFold(n_splits=3)
 for train, test in skf.split(X, y):
   print('train -  {}   |   test -  {}'.format(np.bincount(y[train]), np.bincount(y[test])))
 
+# CONTRIBUTION OF MUHAMMAD HUZAIFA (10562)
 #Lidstone  Smoothing
 clf = MultinomialNB(alpha=0.5)
 clf.fit(abs(t_train),y_train)
