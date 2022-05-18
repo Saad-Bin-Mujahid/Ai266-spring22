@@ -58,3 +58,6 @@ We faced many problems but two of them was most difficult to handle
 ### SYED SALMAN KHURSHID SCORE SCREENSHOT
 
 ### MUHAMMAD HUZAIFA SCORE SCREENSHOT
+
+![Screenshot](https://user-images.githubusercontent.com/99358274/169109806-420ea263-7b31-4511-b698-3ffbc5c4cb69.jpeg)
+
