@@ -24,8 +24,8 @@ Implemented Lidstone Smoothing.
 
 ## SYED TAHA ANWER
 Implemented Support Vector Machine (SVM)
-## SARIM RAZA
-Implemented Laplace Smoothing.
+
+
 
 ## SYED SALMAN KHURSHEED
 Implemented Perceptron.
