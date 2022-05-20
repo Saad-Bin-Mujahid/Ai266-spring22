@@ -50,6 +50,7 @@ We faced many problems but two of them was most difficult to handle
 ![SCORE SCREENSHOT (CROPPED)](https://user-images.githubusercontent.com/87540423/168880522-5464aacc-14b2-48b1-b01a-e70b6a7d2511.PNG)
 
 ### SARIM RAZA SCORE SCREENSHOT
+![image](https://user-images.githubusercontent.com/55577954/169464853-41715cbf-8dae-4c6b-b7d6-7fbc1d24858e.png)
 
 ### SYED TAHA ANWER SCORE SCREENSHOT
 ![image](https://user-images.githubusercontent.com/15570677/168893810-78de4415-f1d7-4ba1-ba52-6d2feb96f8ac.png)
