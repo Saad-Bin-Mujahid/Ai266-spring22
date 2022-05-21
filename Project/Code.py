@@ -126,6 +126,5 @@ scores = cross_val_score(model, abs(t_train), y_train, scoring='neg_mean_sq
 sample = test[['id']].copy()
 sample['target'] = target
 print(sample)
-
 #SAMPLE FILE
 sample.to_csv('sample.csv',index=False)
