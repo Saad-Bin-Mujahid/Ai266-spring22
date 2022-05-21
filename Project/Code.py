@@ -45,18 +45,6 @@ skf = StratifiedKFold(n_splits=3)
 for train, test in skf.split(X, y):
   print('train -  {}   |   test -  {}'.format(np.bincount(y[train]), np.bincount(y[test])))
 
-#CONTRIBUTION OF SARIM RAZA
-#LAPLACE SMOOTHING
-clf = MultinomialNB(alpha=1)
-clf.fit(abs(t_train),y_train)
-clf.fit(abs(t_train),y_train)
-clf.predict(t_test)
-LPMNB=clf.score(t_test,y_test)
-print("ACCURACY BY LAPLACE SMOOTHING:- ",LPMNB*100)
-skf = StratifiedKFold(n_splits=3)
-for train, test in skf.split(X, y):
-  print('train -  {}   |   test -  {}'.format(np.bincount(y[train]), np.bincount(y[test])))
-
 #CONTRIBUTION OF MUHAMMAD HUZAIFA
 #LIDSTONE SMOOTHING
 clf = MultinomialNB(alpha=0.5)
