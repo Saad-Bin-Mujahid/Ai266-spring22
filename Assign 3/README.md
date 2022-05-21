@@ -61,4 +61,4 @@ We faced many problems but two of them was most difficult to handle
 ![Screenshot_4](https://user-images.githubusercontent.com/96941322/169110253-a209cbfd-620b-413e-a25b-7d5e6a31d8ce.png)
 
 ### MUHAMMAD HUZAIFA SCORE SCREENSHOT
-
+![Screenshot](https://user-images.githubusercontent.com/99358274/169663281-c5c494a3-ad4d-4110-b6e7-8bbfabb1ac41.jpeg)
