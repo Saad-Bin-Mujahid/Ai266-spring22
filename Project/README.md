@@ -26,7 +26,7 @@ Implemented laplace Smoothing, Data Cleaning and K-Fold.
 Implemented Lidstone Smoothing.
 
 ## SYED TAHA ANWER
-Implemented Support Vector Machine (SVM) & Cross Validation.
+Implemented Support Vector Machine (SVM) & Cross Validation!
 
 ## SYED SALMAN KHURSHEED
 Implemented Perceptron.
@@ -52,6 +52,7 @@ In Final submission we faced 2 problems that are last requirement in Project
 
 
 ### SYED TAHA ANWER SCORE SCREENSHOT
+![image](https://user-images.githubusercontent.com/15570677/169667924-d49eb8ab-fee8-4e9e-84d9-2aa2114b726f.png)
 
 ### SYED SALMAN KHURSHID SCORE SCREENSHOT
 ![Screenshot_8](https://user-images.githubusercontent.com/96941322/169661411-aac8cff9-6f8d-4909-b7f8-064c4c41ddc8.png)
