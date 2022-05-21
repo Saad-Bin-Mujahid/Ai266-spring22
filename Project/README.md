@@ -32,8 +32,6 @@ Implemented Support Vector Machine (SVM) & Cross Validation.
 Implemented Perceptron.
 
 ### SCORE TABLE
-![COLAB OUTPUT 1](https://user-images.githubusercontent.com/87540423/169660583-f856c08f-5f96-4a67-a0b7-efa84216794e.PNG)
-![COLAB OUTPUT 2](https://user-images.githubusercontent.com/87540423/169660588-2f3c80e5-8702-42e3-b609-09a900cd5de1.PNG)
 
 
 ### PROBLEMS FACED DURING ASSINGMNET
