@@ -32,8 +32,6 @@ Implemented Support Vector Machine (SVM) & Cross Validation.
 Implemented Perceptron.
 
 ### SCORE TABLE
-![Screenshot_6](https://user-images.githubusercontent.com/96941322/169661290-31cec499-4151-414d-b43a-d25b92fc01ab.png)
-![169660588-2f3c80e5-8702-42e3-b609-09a900cd5de1](https://user-images.githubusercontent.com/96941322/169661292-79f0ccc8-6134-4d71-bf40-e61214029173.png)
 
 
 ### PROBLEMS FACED DURING ASSINGMNET
