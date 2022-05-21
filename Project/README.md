@@ -28,7 +28,8 @@ Implemented Lidstone Smoothing.
 ## SYED TAHA ANWER
 Implemented Support Vector Machine (SVM) & Cross Validation.
 
-
+## SYED SALMAN KHURSHEED
+Implemented Perceptron.
 
 ### SCORE TABLE
 ![169660583-f856c08f-5f96-4a67-a0b7-efa84216794e](https://user-images.githubusercontent.com/96941322/169661415-5fa6f5d7-ae7a-4c1a-aa79-66af96469de0.png)
