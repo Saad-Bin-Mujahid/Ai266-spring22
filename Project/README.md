@@ -19,6 +19,9 @@
 ## SAAD BIN MUJAHID
 Wrote program and implemented Data Cleaning & K-Fold.
 
+## SARIM RAZA 
+Implemented laplace Smoothing, Data Cleaning and K-Fold.
+
 ## MUHAMMAD HUZAIFA
 Implemented Lidstone Smoothing.
 
